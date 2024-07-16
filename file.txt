@@ -1,0 +1,11 @@
+Explanation:
+stdin is passed as the third argument to fgets, indicating that the input should be read from the standard input stream.
+fgets reads up to sizeof(input) - 1 characters from stdin and stores them in input, ensuring the string is null-terminated.
+If fgets successfully reads input, it prints the entered string; otherwise, it prints an error message.
+In summary, stdin is a predefined file pointer used to handle standard input in C, allowing you to read data entered by the user or redirected from other sources.
+
+
+
+
+
+
