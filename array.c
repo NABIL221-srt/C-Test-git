@@ -4,7 +4,7 @@ int main(int argc, char const *argv[])
 {
     int tableau[5] = {4, 99, 55, 333, 3221};
     printf("here is the starting point of my array");
-
+    printf("Coding with C is hard but it gives you a trong knowledge in programmation in general /c ");
     for (int i = 0; i < 5; i++)
     {
         printf("this is my array ");
