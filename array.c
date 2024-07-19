@@ -7,6 +7,9 @@ int main(int argc, char const *argv[])
     printf("Coding with C is hard but it gives you a trong knowledge in programmation in general /c ");
     for (int i = 0; i < 5; i++)
     {
+
+
+        printf("here is the winnig numbers /n");
         printf("this is my array ");
         printf("%d\n", tableau[i]);
     }
